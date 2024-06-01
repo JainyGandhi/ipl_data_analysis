@@ -6,7 +6,8 @@ Explored data from the DC versus RCB game, providing insights into each ball, ov
 
 2.	Top scorer:
 •	AR Patel from Delhi Capitals is the top scorer of the match, significantly outscoring others with a little over 50 runs.
-•	RM Patidar is the top scorer for Royal Challengers Bangalore, closely approaching 50 runs.
+•	RM Patidar is the top scorer for Royal Challengers Bangalore, closely approaching 50 runs. ![image](https://github.com/JainyGandhi/ipl_data_analysis/assets/58180373/7e184f2d-1fb8-4427-8d44-df1136c0dc7f)
+
 
 3.	Wickets Taken and economy rate:
 •	The bars indicate the number of wickets each bowler took during the match. The height of the bars reflects how successful the bowlers were in terms of taking wickets. Bowlers from both teams contributed to taking wickets, with some notable performances that stand out due to higher bars.
@@ -15,7 +16,9 @@ Explored data from the DC versus RCB game, providing insights into each ball, ov
 4.	A clear breakdown of the match into different phases; Powerplay, Middle, and Death, and illustrates how each team performed during these segments:
 •	Powerplay: Both teams have a relatively low total of runs, with RCB losing more wickets than DC in this phase, as indicated by the height of the orange line.
 •	Middle: This phase shows the highest run-scoring for both teams, with DC scoring slightly more than RCB. The wickets lost remain controlled, suggesting stable innings from both teams.
-•	Death: RCB has a sharp decrease in runs compared to the Middle phase, while DC maintains a high run rate. Wickets lost by RCB increased significantly in this phase, marked by the orange line peaking near 4.5, indicating a possible collapse or aggressive batting that did not pay off.
+•	Death: RCB has a sharp decrease in runs compared to the Middle phase, while DC maintains a high run rate. Wickets lost by RCB increased significantly in this phase, marked by the orange line peaking near 4.5, indicating a possible collapse or aggressive batting that did not pay off.![image](https://github.com/JainyGandhi/ipl_data_analysis/assets/58180373/958e57e5-be07-490f-9621-5f26aad5dfe9)
+
+
 
 
 5.	Here are the top performers in terms of strike rate from the match:
@@ -25,4 +28,5 @@ Explored data from the DC versus RCB game, providing insights into each ball, ov
 
 6.	Run rate:
 •	RCB Run Rate Fluctuations: RCB’s run rate shows significant fluctuations, peaking at around 3.5 runs per ball towards the end of the innings. The presence of wicket markers (red circles) indicates that wickets were taken during overs where the run rate was generally lower, which is typical as wickets tend to disrupt batting flow.
-•	DC Run Rate Patterns: DC’s run rate starts strong but sees a sharp decline after the initial overs, stabilizing somewhat in the middle before another peak and subsequent fall towards the end. Wickets (blue circles) are taken in overs where the run rate drops, suggesting effective bowling from RCB during these times.
+•	DC Run Rate Patterns: DC’s run rate starts strong but sees a sharp decline after the initial overs, stabilizing somewhat in the middle before another peak and subsequent fall towards the end. Wickets (blue circles) are taken in overs where the run rate drops, suggesting effective bowling from RCB during these times. ![image](https://github.com/JainyGandhi/ipl_data_analysis/assets/58180373/f62a8b54-a629-4f1f-9971-99b3844a03ed)
+
