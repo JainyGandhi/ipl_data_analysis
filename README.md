@@ -11,7 +11,8 @@ Explored data from the DC versus RCB game, providing insights into each ball, ov
 
 3.	Wickets Taken and economy rate:
 •	The bars indicate the number of wickets each bowler took during the match. The height of the bars reflects how successful the bowlers were in terms of taking wickets. Bowlers from both teams contributed to taking wickets, with some notable performances that stand out due to higher bars.
-•	Economy Rate: The line graph overlaid on the bar graph shows the economy rate (number of runs conceded per over) of each bowler. The economy rate is crucial as it indicates how economically a bowler has bowled in terms of runs given away.
+•	Economy Rate: The line graph overlaid on the bar graph shows the economy rate (number of runs conceded per over) of each bowler. The economy rate is crucial as it indicates how economically a bowler has bowled in terms of runs given away. ![image](https://github.com/JainyGandhi/ipl_data_analysis/assets/58180373/3c1fedab-7c17-44d8-95d2-5709e758655a)
+
 
 4.	A clear breakdown of the match into different phases; Powerplay, Middle, and Death, and illustrates how each team performed during these segments:
 •	Powerplay: Both teams have a relatively low total of runs, with RCB losing more wickets than DC in this phase, as indicated by the height of the orange line.
