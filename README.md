@@ -2,7 +2,8 @@
 Explored data from the DC versus RCB game, providing insights into each ball, over, run, and wicket. Conducted analysis on top scorers, run rates, strike rates, types of dismissals, run distribution, and phase analysis throughout the match.
 1.	The run distribution per over for both teams. Here are some insights:
 •	The scoring rate for each team shows fluctuations throughout their innings, with spikes indicating overs with high scoring, likely due to boundaries or big hits.
-•	Royal Challengers Bangalore (RCB) appears to have a couple of overs with significantly higher runs, suggesting aggressive batting.
+•	Royal Challengers Bangalore (RCB) appears to have a couple of overs with significantly higher runs, suggesting aggressive batting.![image](https://github.com/JainyGandhi/ipl_data_analysis/assets/58180373/eceb4d1c-13da-471e-a9aa-d1d4410c9c25)
+
 2.	Top scorer:
 •	AR Patel from Delhi Capitals is the top scorer of the match, significantly outscoring others with a little over 50 runs.
 •	RM Patidar is the top scorer for Royal Challengers Bangalore, closely approaching 50 runs.
