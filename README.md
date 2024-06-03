@@ -1,5 +1,9 @@
 # ipl_data_analysis
+**Problem statement **- The objective of this project is to analyze the data from the cricket match between Delhi Capitals (DC) and Royal Challengers Bangalore (RCB). The analysis aims to provide comprehensive insights into various aspects of the game, including individual ball-by-ball details, over-wise performance, runs scored, wickets taken, and player statistics. Key areas of analysis include identifying the top scorers for both teams, analyzing run rates and strike rates, examining the types of dismissals, studying the distribution of runs across different overs, and conducting phase-wise analysis to understand the game's dynamics throughout the match. Through this analysis, we aim to gain valuable insights into the performance of players, team strategies, and critical moments of the DC versus RCB match.
+
+
 Explored data from the DC versus RCB game, providing insights into each ball, over, run, and wicket. Conducted analysis on top scorers, run rates, strike rates, types of dismissals, run distribution, and phase analysis throughout the match.
+
 1.	The run distribution per over for both teams. Here are some insights:
 •	The scoring rate for each team shows fluctuations throughout their innings, with spikes indicating overs with high scoring, likely due to boundaries or big hits.
 •	Royal Challengers Bangalore (RCB) appears to have a couple of overs with significantly higher runs, suggesting aggressive batting.![image](https://github.com/JainyGandhi/ipl_data_analysis/assets/58180373/eceb4d1c-13da-471e-a9aa-d1d4410c9c25)
